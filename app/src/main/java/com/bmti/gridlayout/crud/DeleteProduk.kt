@@ -30,7 +30,6 @@ class DeleteProduk : AppCompatActivity() {
 
             // Cek input code
             if(getKode.isNotEmpty()) {
-                //TODO Execute deleteFunction
                 deleteData(getKode)
             }
             else {
