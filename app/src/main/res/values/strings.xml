@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GridLayout</string>
+
+
+    <string name="home">Home</string>
+    <string name="pdf">PDF</string>
+    <string name="browser">Browser</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="produk">Produk</string>
+    <string name="siswa">Siswa</string>
+    <string name="survey">Survey</string>
+    <string name="galery">Gallery</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

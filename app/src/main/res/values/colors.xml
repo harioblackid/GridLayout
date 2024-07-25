@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#08ABF6</color>
+    <color name="gray">#ACACAC</color>
+    <color name="danger">#E45D5D</color>
+
+
+    <!--    Splash Screen-->
+    <color name="tint">#ad6d2f</color>
+    <color name="secondary"> #e4bc84 </color>
+    <color name="primary"> #80411e </color>
+    <color name="border"> #8f755f </color>
+    <color name="light"> #d2c1b0 </color>
+    <color name="brown"> #d2c1b0 </color>
+</resources>
